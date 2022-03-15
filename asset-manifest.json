@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cooking/static/css/main.48faed82.css",
+    "main.js": "/cooking/static/js/main.75cca25c.js",
+    "index.html": "/cooking/index.html",
+    "main.48faed82.css.map": "/cooking/static/css/main.48faed82.css.map",
+    "main.75cca25c.js.map": "/cooking/static/js/main.75cca25c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48faed82.css",
+    "static/js/main.75cca25c.js"
+  ]
+}
